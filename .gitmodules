@@ -1,0 +1,129 @@
+[submodule "skiff-apps"]
+	path = skiff-apps
+	url = https://github.com/Bizmate-Consultnacy/skiff-apps.git
+[submodule "laravel-crm"]
+	path = laravel-crm
+	url = https://github.com/Exclisive-IT/laravel-crm.git
+[submodule "MedSyncWebApp"]
+	path = MedSyncWebApp
+	url = https://github.com/KMBL-Ventures/MedSyncWebApp.git
+[submodule "telegram-apps-vite"]
+	path = telegram-apps-vite
+	url = https://github.com/KMBL-Ventures/telegram-apps-vite.git
+[submodule "animata-react-ui-components"]
+	path = animata-react-ui-components
+	url = https://github.com/omeiza-workspace/animata-react-ui-components.git
+[submodule "awesome-shadcn-ui"]
+	path = awesome-shadcn-ui
+	url = https://github.com/omeiza-workspace/awesome-shadcn-ui.git
+[submodule "telegram-apps-template"]
+	path = telegram-apps-template
+	url = https://github.com/omeiza-workspace/telegram-apps-template.git
+[submodule "awesome-angular"]
+	path = awesome-angular
+	url = https://github.com/omeiza-workspace/awesome-angular.git
+[submodule "free-for-dev-resources"]
+	path = free-for-dev-resources
+	url = https://github.com/omeiza-workspace/free-for-dev-resources.git
+[submodule "awesome-saas-boilerplates"]
+	path = awesome-saas-boilerplates
+	url = https://github.com/omeiza-workspace/awesome-saas-boilerplates.git
+[submodule "it-codeing-tools"]
+	path = it-codeing-tools
+	url = https://github.com/omeiza-workspace/it-codeing-tools.git
+[submodule "adminlte-generator"]
+	path = adminlte-generator
+	url = https://github.com/omeiza-workspace/adminlte-generator.git
+[submodule "talk"]
+	path = talk
+	url = https://github.com/omeiza-workspace/talk.git
+[submodule "laravel-quasar"]
+	path = laravel-quasar
+	url = https://github.com/omeiza-workspace/laravel-quasar.git
+[submodule "awesome-dotnet-core"]
+	path = awesome-dotnet-core
+	url = https://github.com/omeiza-workspace/awesome-dotnet-core.git
+[submodule "awesome-laravel-resource"]
+	path = awesome-laravel-resource
+	url = https://github.com/omeiza-workspace/awesome-laravel-resource.git
+[submodule "awesome-react-tools"]
+	path = awesome-react-tools
+	url = https://github.com/omeiza-workspace/awesome-react-tools.git
+[submodule "api-management-service-template"]
+	path = api-management-service-template
+	url = https://github.com/omeiza-workspace/api-management-service-template.git
+[submodule "awesome-text-to-video-sources"]
+	path = awesome-text-to-video-sources
+	url = https://github.com/omeiza-workspace/awesome-text-to-video-sources.git
+[submodule "how_companies_do_sre"]
+	path = how_companies_do_sre
+	url = https://github.com/omeiza-workspace/how_companies_do_sre.git
+[submodule "heroicons"]
+	path = heroicons
+	url = https://github.com/omeiza-workspace/heroicons.git
+[submodule "apk.sh"]
+	path = apk.sh
+	url = https://github.com/omeiza-workspace/apk.sh.git
+[submodule "fast-proxy-node"]
+	path = fast-proxy-node
+	url = https://github.com/omeiza-workspace/fast-proxy-node.git
+[submodule "feather-icons"]
+	path = feather-icons
+	url = https://github.com/omeiza-workspace/feather-icons.git
+[submodule "shrine_mvc"]
+	path = shrine_mvc
+	url = https://github.com/omeiza-workspace/shrine_mvc.git
+[submodule "livehelperchat"]
+	path = livehelperchat
+	url = https://github.com/omeiza-workspace/livehelperchat.git
+[submodule "react-resume-builder"]
+	path = react-resume-builder
+	url = https://github.com/omeiza-workspace/react-resume-builder.git
+[submodule "react-builder"]
+	path = react-builder
+	url = https://github.com/omeiza-workspace/react-builder.git
+[submodule "localbase"]
+	path = localbase
+	url = https://github.com/omeiza-workspace/localbase.git
+[submodule "json-server"]
+	path = json-server
+	url = https://github.com/omeiza-workspace/json-server.git
+[submodule "awesome-opensource-apps"]
+	path = awesome-opensource-apps
+	url = https://github.com/omeiza-workspace/awesome-opensource-apps.git
+[submodule "playground.cors.sh"]
+	path = playground.cors.sh
+	url = https://github.com/omeiza-workspace/playground.cors.sh.git
+[submodule "feathers"]
+	path = feathers
+	url = https://github.com/omeiza-workspace/feathers.git
+[submodule "visual-builder-vue-laravel"]
+	path = visual-builder-vue-laravel
+	url = https://github.com/omeiza-workspace/visual-builder-vue-laravel.git
+[submodule "gh-pages-help-center"]
+	path = gh-pages-help-center
+	url = https://github.com/omeiza-workspace/gh-pages-help-center.git
+[submodule "mui-querybuilder"]
+	path = mui-querybuilder
+	url = https://github.com/omeiza-workspace/mui-querybuilder.git
+[submodule "awesome-landing-page"]
+	path = awesome-landing-page
+	url = https://github.com/omeiza-workspace/awesome-landing-page.git
+[submodule "awesome-react-components"]
+	path = awesome-react-components
+	url = https://github.com/omeiza-workspace/awesome-react-components.git
+[submodule "docker-tools"]
+	path = docker-tools
+	url = https://github.com/omeiza-workspace/docker-tools.git
+[submodule "design-resources-for-developers"]
+	path = design-resources-for-developers
+	url = https://github.com/omeiza-workspace/design-resources-for-developers.git
+[submodule "the-book-of-secret-knowledge"]
+	path = the-book-of-secret-knowledge
+	url = https://github.com/omeiza-workspace/the-book-of-secret-knowledge.git
+[submodule "docker-php-extension-installer"]
+	path = docker-php-extension-installer
+	url = https://github.com/omeiza-workspace/docker-php-extension-installer.git
+[submodule "gitrows"]
+	path = gitrows
+	url = https://github.com/omeiza-workspace/gitrows.git
